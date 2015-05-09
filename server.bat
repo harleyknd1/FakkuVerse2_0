@@ -1,0 +1,1 @@
+X:\wamp\www\FakkuVerse\node app.js
