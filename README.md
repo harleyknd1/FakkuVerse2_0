@@ -1,7 +1,7 @@
 # Fakku-Verse 2.0
 ============
 
-[![Build Status](https://travis-ci.org/browserquest/BrowserQuest.png)](https://travis-ci.org/browserquest/BrowserQuest) [![Dependency Status](https://gemnasium.com/browserquest/BrowserQuest.png)](https://gemnasium.com/browserquest/BrowserQuest)
+[![Build Status](https://travis-ci.org/harleyknd1/FakkuVerse2_0.svg)](https://travis-ci.org/harleyknd1/FakkuVerse2_0) 
 
 [Fakku Verse 2.0] is a HTML5/JavaScript multiplayer game experiment.
 
