@@ -3,24 +3,24 @@
 
 [![Build Status](https://travis-ci.org/browserquest/BrowserQuest.png)](https://travis-ci.org/browserquest/BrowserQuest) [![Dependency Status](https://gemnasium.com/browserquest/BrowserQuest.png)](https://gemnasium.com/browserquest/BrowserQuest)
 
-[BrowserQuest](http://browserquest-teambq.rhcloud.com:8000) is a HTML5/JavaScript multiplayer game experiment.
+[Fakku Verse 2.0] is a HTML5/JavaScript multiplayer game experiment.
 
 It has three major parts:
 
 * the server side, which runs using Node.js
 * the client side, which runs using javascript in your browser
-* the database side, which runs using Redis
+* the database side, which runs using MySQL
 
 Browser Support
 ---------------
 
-* Firefox - Works well.
-* Chrome - Works well.
-* Chromium - Works well.
-* Opera 15.x - Works well.
-* Opera 12.16 - Background music doesn't play.  Everything else works (Very slow though).
-* Safari 6.x - Background music doesn't play.  Everything else works well.
-* IE 10.x - Doesn't work.  Other versions untested.
+* Firefox - Still In Development
+* Chrome - Still In Development
+* Chromium - Still In Development
+* Opera 15.x - Still In Development
+* Opera 12.16 - Still In Development
+* Safari 6.x - Still In Development
+* IE 10.x - Still In Development
 
 How to get it going
 -------------------
