@@ -1,5 +1,4 @@
 # Fakku-Verse 2.0
-The Fakku Verse 2.0 project
 ============
 
 [![Build Status](https://travis-ci.org/browserquest/BrowserQuest.png)](https://travis-ci.org/browserquest/BrowserQuest) [![Dependency Status](https://gemnasium.com/browserquest/BrowserQuest.png)](https://gemnasium.com/browserquest/BrowserQuest)
